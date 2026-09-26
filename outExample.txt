@@ -1,0 +1,40 @@
++-----------------------------------+--------+
+| METRIC                            | VALUE  |
++-----------------------------------+--------+
+| Total Characters (incl. spaces)   | 142    |
+| Total Characters (excl. spaces)   | 118    |
+| Word Count                        | 23     |
+| Line Count                        | 8      |
+| Sentence Count                    | 1      |
+| Vowel Count                       | 33     |
+| Uppercase Letters                 | 4      |
+| Lowercase Letters                 | 95     |
+| Digit Count                       | 15     |
+| Space Count                       | 24     |
++-----------------------------------+--------+
+| LETTER FREQUENCIES                | COUNT  |
++-----------------------------------+--------+
+|  A / a                            | 11     |
+|  B / b                            | 1      |
+|  C / c                            | 1      |
+|  D / d                            | 12     |
+|  E / e                            | 8      |
+|  F / f                            | 4      |
+|  G / g                            | 6      |
+|  H / h                            | 3      |
+|  I / i                            | 4      |
+|  J / j                            | 1      |
+|  L / l                            | 3      |
+|  M / m                            | 2      |
+|  N / n                            | 2      |
+|  O / o                            | 10     |
+|  P / p                            | 1      |
+|  R / r                            | 4      |
+|  S / s                            | 11     |
+|  T / t                            | 6      |
+|  V / v                            | 1      |
+|  W / w                            | 1      |
+|  Y / y                            | 7      |
++-----------------------------------+--------+
+| Most Frequent Letter: 'd'          | 12     |
++-----------------------------------+--------+
