@@ -1,2 +1,2 @@
-let x = 11;
-conosole.log(x);
+let y = 11;
+conosole.log(y);
